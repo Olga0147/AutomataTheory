@@ -1,0 +1,40 @@
+
+g
+java:S3008
+"LRename this field "P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŸíÁûÿÿÿÿ
+„
+java:S1319"iThe type of the "n" object should be an interface such as "Set" rather than the implementation "HashSet".(ØéÒ¢şÿÿÿÿ
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ8¿éÀ™©.
+B
+java:S1068	"%Remove this unused "T" private field.(õÏù‘8Ş·¤™©.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(•·±Ûÿÿÿÿÿ8Ú¹±™©.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(õÅòñ8ıí»™©.
+G
+java:S1068"%Remove this unused "S" private field.(•Öïşÿÿÿÿ8š˜¯™©.
+M
+java:S3740„"/Provide the parametrized type for this generic.(ÅÆšÑ8ıí»™©.
+M
+java:S3740"/Provide the parametrized type for this generic.(ÅÆšÑ8¿éÀ™©.
+f	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úØè¨ûÿÿÿÿ
+„
+java:S1319"iThe type of the "t" object should be an interface such as "Set" rather than the implementation "HashSet".(ØéÒ¢şÿÿÿÿ
+V
+java:S4973="9Use the "equals" method if value comparison was intended.(Ğ˜è½8‹ì¸™©.
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(¹·É†8ıí»™©.
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ8ıí»™©.
+f	java:S116"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Öïşÿÿÿÿ
+q	java:S116"PRename this field "FIRST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü³Ê§şÿÿÿÿ8¹æ£™©.
+a	java:S116	"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÏù‘
+O
+java:S1144"-Remove this unused private "printSet" method.(şŸù¤şÿÿÿÿ8£¢µ™©.
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(¹·É†8¿éÀ™©.
+o
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÆÙıû8‹ì¸™©.
+Q
+java:S3740O"/Provide the parametrized type for this generic.(Û„›şşÿÿÿÿ8‹ì¸™©.
+r	java:S116"QRename this field "FOLLOW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‘ö¤ûÿÿÿÿ8«ã¤™©.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Ùæâúÿÿÿÿ8¿éÀ™©.
+L
+java:S3740("/Provide the parametrized type for this generic.(ÅÆšÑ8ëÀ”©.
+;
+java:S3010"Remove this assignment of "P".(†ŒÚÅ8Ş·¤™©.

@@ -1,0 +1,63 @@
+
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(¸ˆÎÿÿÿÿÿ
+O	java:S106á"9Replace this use of System.out or System.err by a logger.(¢±ã
+F
+java:S3740ù"/Provide the parametrized type for this generic.(ÅÆšÑ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(Ñü†Äÿÿÿÿÿ
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(îüŠËúÿÿÿÿ
+O	java:S106ü"9Replace this use of System.out or System.err by a logger.(¹·É†
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(·‡¿œÿÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ”ã«
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(¨ó¿®
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
+b
+java:S3008"LRename this field "P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÉ†î
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(¼ÖÊ®ùÿÿÿÿ
+T	java:S106Ú"9Replace this use of System.out or System.err by a logger.(©úŒøûÿÿÿÿ
+t	java:S135­"YReduce the total number of break and continue statements in this loop to use at most one.(£Ó‰‰ÿÿÿÿÿ
+g	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°‰æÁ
+g
+java:S3008"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÃ¼Ÿÿÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(‡ ¢Ê
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷’›˜
+m
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Â‘¤ëúÿÿÿÿ
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.( ×Ïàÿÿÿÿÿ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ñ¡ë×
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À›şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤´¥
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(¾¸ãˆÿÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(Îœ÷¥øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ½©"
+b
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ñ¸ë
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(õäêéşÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(”¸©Œ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ñ¸ë
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(ó—¢úÿÿÿÿ
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(¾¸ãˆÿÿÿÿÿ
+e	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÄ¶(
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(˜¤üÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ñü†Äÿÿÿÿÿ
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(Ñü†Äÿÿÿÿÿ
+g	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÀÿĞ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(·Õ¹óüÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(×ıàş
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(Ÿ¿Ã
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(‘¼“ıÿÿÿÿ
+t	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+µ
+java:S1192Z"™Define a constant instead of duplicating this literal "Ğ˜ÑĞ¿Ğ¾Ğ»ÑŒĞ·Ğ¾Ğ²Ğ°Ğ½ Ğ½ĞµĞ²ĞµÑ€Ğ½Ñ‹Ğ¹ ÑĞ¸Ğ¼Ğ²Ğ¾Ğ», Ğ¿Ğ¾Ğ¿Ñ€Ğ¾Ğ±ÑƒĞ¹Ñ‚Ğµ ĞµÑ‰Ğµ Ñ€Ğ°Ğ·" 3 times.(Ñü†Äÿÿÿÿÿ
+s	java:S135t"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(•·±Ûÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(£¦Î¯üÿÿÿÿ
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ıù£
+T	java:S106"9Replace this use of System.out or System.err by a logger.(îüŠËúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”÷©'
+b
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ”ã«
